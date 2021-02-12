@@ -1,0 +1,35 @@
+body {
+  background: #444857;
+  color: #1877F2;
+  box-sizing: border-box;
+}
+div {
+  text-align: center;
+  margin-top: 12%;
+  font-size: 70px;
+  font-weight: 500;
+}
+button {
+  border-radius:50%;
+  width: 80px;
+  height: 80px;
+  margin:20px;
+  color: #888;
+  background-color: #31B0D5;
+}
+.custom-selector{
+  margin-top: 50px;
+  margin-left:10px;
+  position: relative;
+  display:inline-block;
+  font-size:20px;
+  color:#888;
+}
+.custom-selector select{
+  width: 200px;
+  min-height: 35px;
+  background:#cbe7ff;
+  cursor: pointer;
+  margin-top: 5px;
+  color:#888;
+}
